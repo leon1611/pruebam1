@@ -19,6 +19,9 @@ body{
     padding: 1rem;
     background-color: whitesmoke;
     text-align: justify;
+  }
+  #section{
+    background-color: whitesmoke;
     display: block;
   }
   .card:hover{
